@@ -9,7 +9,7 @@
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1lohUCc9GjeMuXZEqz1VYm2oqTPgBA3G2?usp=sharing.
 
-Ссылка на Github:
+Ссылка на Github: [Классификация_жалоб_пользователей.ipynb](https://github.com/Popov-SS/Portfolio/blob/master/Complaint%20ticket%20classification/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B6%D0%B0%D0%BB%D0%BE%D0%B1_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.ipynb)
 
 Цель работы - проанализировать жалобные обращения в службу поддержки клиентов, выделить их темы, обучить модель для классификации тем.
 
@@ -30,7 +30,7 @@
 
 Ссылка на Google Colab: https://colab.research.google.com/drive/1fnH3KnctXhMkyhrMLT8b7-CqdBSFX_f9?usp=sharing
 
-Ссылка на Github: 
+Ссылка на Github: [A_B_тест_программы_лояльности.ipynb](https://github.com/Popov-SS/Portfolio/blob/master/Loyalty%20program%20AB-test/A_B_%D1%82%D0%B5%D1%81%D1%82_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B_%D0%BB%D0%BE%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.ipynb)
 
 Цель работы - проанализировать результаты A/B-теста, оценить эффективность нововведений.
 
